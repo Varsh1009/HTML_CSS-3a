@@ -1,0 +1,38 @@
+*{
+     margin-top: 3%;
+}
+.container{
+    align-items: center;
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+.part1{
+    width:40%;
+    border:2px solid grey;
+    border-radius: 5px;
+    padding:40px 20px 40px 20px;
+    margin: 10px 10px 10px 10px;
+}
+.part2{
+    width:40%;
+    border:2px solid grey;
+    border-radius: 5px;
+    padding:40px 20px 40px 20px;
+    margin: 10px 10px 10px 10px;
+     
+}
+h5{
+     text-align: left;
+     font-size: 20px;
+     color:rgb(33, 33, 252);
+     
+}
+h3{
+    color: darkblue;
+    font-size: 30px;
+    width: 290px; 
+
+}
